@@ -7,5 +7,6 @@ Activity life switchover
 在A页面点击按钮跳转到B页面，这时候的生命周期为:
 ![Image text](https://github.com/Holden-Cao/ActivityExercise/blob/master/QQ%E6%88%AA%E5%9B%BE20190522131639.png)
 
+
 这时候我们在Activity B按系统返回键:生命周期为:
 ![Image text](https://github.com/Holden-Cao/ActivityExercise/blob/master/QQ%E6%88%AA%E5%9B%BE20190522132034.png)
